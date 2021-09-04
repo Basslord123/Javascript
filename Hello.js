@@ -1,0 +1,18 @@
+var Box="Hello Javascript"
+console.log(Box)
+console.log(Box)
+console.log(Box)
+console.log(Box)
+console.log(true)
+console.log(false)
+// console.log(5)
+// console.log(5.5)
+// console.log("True")
+// console.log("False")
+var Box1="Hello world"
+console.log(Box1)
+console.log(Box1)
+console.log(Box1)
+console.log(Box1)
+console.log(Box1)
+console.log(Box1)
